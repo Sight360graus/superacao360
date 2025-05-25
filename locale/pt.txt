@@ -1,0 +1,101 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_0A68751E_1287_4090_41B1_CC142BDA33B6.source = https://api.whatsapp.com/send?phone=5547991686004&text=Ol%C3%A1,%20vim%20pelo%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_056EA5A3_1289_C3B0_417E_0DEF84102912.source = https://api.whatsapp.com/send?phone=5547991686004&text=Ol%C3%A1,%20vim%20pelo%20Google%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es.
+LinkBehaviour_0A815E0B_128B_4070_41A7_4FB0FC93B25F.source = https://colegiosuperacaoitp.com.br/
+LinkBehaviour_0529985B_1289_C097_41A0_EC48D94E9C06.source = https://colegiosuperacaoitp.com.br/
+LinkBehaviour_04396647_1289_40F0_41AF_CA156FF1D87C.source = https://colegiosuperacaoitp.com.br/
+LinkBehaviour_0584C0C6_1288_C1F0_4197_D61170209E9D.source = https://colegiosuperacaoitp.com.br/
+LinkBehaviour_0AC64A19_128F_4090_4183_6089692031DF.source = https://www.facebook.com/colegiosuperacaoitapema/?locale=pt_BR
+LinkBehaviour_0A8F1FC2_128B_7FF0_41A7_0FB880B621DE.source = https://www.facebook.com/colegiosuperacaoitapema/?locale=pt_BR
+LinkBehaviour_0547FED6_1288_C190_41A9_8274408596DC.source = https://www.google.com/maps/place/Col%C3%A9gio+Supera%C3%A7%C3%A3o/@-27.08498,-48.6105247,17z/data=!3m1!4b1!4m6!3m5!1s0x94d8b1a2e1e07fcd:0x662849fdb9d17be2!8m2!3d-27.08498!4d-48.6105247!16s%2Fg%2F1tyz_3x9?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D
+LinkBehaviour_0AEC181B_1289_4090_41AC_00CA3154CAEC.source = https://www.google.com/maps/place/Col%C3%A9gio+Supera%C3%A7%C3%A3o/@-27.08498,-48.6105247,17z/data=!3m1!4b1!4m6!3m5!1s0x94d8b1a2e1e07fcd:0x662849fdb9d17be2!8m2!3d-27.08498!4d-48.6105247!16s%2Fg%2F1tyz_3x9?entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoASAFQAw%3D%3D
+LinkBehaviour_05D91C65_1289_40B0_4184_C610C674FC69.source = https://www.instagram.com/colegiosuperacaoitp/
+LinkBehaviour_0ADCE86B_1288_C0B0_41A9_7555F646EE95.source = https://www.instagram.com/colegiosuperacaoitp/
+
+## Media
+
+### Audio
+audiores_DB2C983D_C5AC_D79B_41BB_23D7751A0DB7.mp3Url = media/audio_DB099295_C5AC_5B6B_41E3_1F94E7DDCB38_en.mp3
+audiores_DBA577B7_CAFF_FAC0_41D8_DDC765CC8616.mp3Url = media/audio_DC8C6580_CAF8_9EC0_41E7_D2C6947F939C_en.mp3
+
+### Title
+panorama_4C5AFDDA_47CA_5587_4152_5EC97F59DE0E.label = 1° Ano Ensino Médio
+panorama_4C5A10A2_47CA_CB87_41A4_940940B7E9FA.label = Acesso Andar superior
+panorama_D904FC68_C654_AFB9_41B7_DEDD55C61D10.label = Ambiente Interno
+panorama_4C5F8326_47CE_4E8F_41AB_63F4BC448AF4.label = Ambiente interno
+panorama_4C5A5988_47CA_FD83_41C0_3B46483E5A97.label = Biblioteca
+panorama_4C59EBFF_47CA_7D7E_41AB_B07EFABE4C6E.label = Cantina
+panorama_4C59B8F3_47CA_DB85_41CE_EE50C68FCABB.label = Cordenação 1
+panorama_4C5A5738_47CA_B683_41D1_6B1A918702D8.label = Cordenação 2
+panorama_4C5FA0E1_47CF_CB85_41CC_A1447F4CDDE3.label = Corredor Recepção
+panorama_4C5E108C_47CE_4B83_4180_8AFF8656D666.label = Corredor Superior
+panorama_4C5FB564_47CE_4A83_41D1_53A88BD55B3D.label = Corredor Superior
+panorama_4C5F7DEB_47CE_F585_41C2_0C87116C3F7E.label = Corredor Superior
+panorama_4C5A379D_47CD_F5BD_4180_9601A2F29590.label = Corredor Superior
+panorama_4C5DC632_47CD_D687_41D0_F6686C63CD3A.label = Corredor Superior
+panorama_4C5E633A_47CE_4E87_41CD_815BE3F82964.label = Corredor Superior
+panorama_4C5A3A0D_47CD_BE9D_41CA_A69556F13FEC.label = Corredor/Porta 1° ano EM
+panorama_4C5A7B6C_47CA_5E83_41C6_B96F372C618B.label = Corredor/Porta 3° e 7° Ano
+panorama_4C5BD6FB_47CA_7785_41B7_25288DEDD14F.label = Corredor/Porta Infantil 5 B
+panorama_4C5BE52E_47CA_4A9F_41C8_A1E48902F179.label = Corredor/Porta Infantil 5a
+panorama_4C5DC8FC_47CD_DB83_414E_2E9AF7730848.label = Corredor/Porta Sala 5° e 6° ano A
+panorama_4C5A39DF_47CB_BDBE_41C3_63BF92785B1A.label = Corredor/Porta infantil 3
+panorama_4C5A7792_47CB_D586_41C0_3E7427A3C431.label = Corredor/Porta infantil 4
+panorama_4C599BC1_47CA_5D85_41C5_C0198AC80D2D.label = Cozinha
+panorama_4C5E526E_47CE_4E9E_419E_D02008B4BC4A.label = Elevador
+panorama_4C5F1E5F_47CF_F6BD_4192_9D6F5AE474B3.label = Entrada Recepção
+panorama_D9E3EB0A_C655_E97E_41E1_182AE61682B5.label = Entrada do Portão
+panorama_4C5A6AA0_47CA_5F83_419A_3DD590A6E5F0.label = Horta
+panorama_4C5EFCFD_47CE_DB7D_41CC_1EAAE7D0FD34.label = Laboratório de Ciências
+panorama_4C59E9F4_47CA_DD83_41C7_A165AF32897D.label = Parque Interno
+panorama_4C45BA99_47D5_BF85_41BB_F5AFE528E0B2.label = Parque de Areia
+panorama_4C5E7A31_47D5_DE85_4195_21D97AE787F3.label = Quadra
+panorama_4B039786_47D5_F58F_419C_24E67786814E.label = Quadra
+panorama_4C5FAFDA_47CF_D587_41A2_0B0805F6C547.label = Recepção
+panorama_4C5EFECD_47CE_B79D_41C3_A6D9BCC9F943.label = Sala 2° ano Ensino médio
+panorama_4C5A0C92_47CA_7B86_41C1_B71AE433A7D9.label = Sala 3° e 7° Ano
+panorama_4C5EB217_47CE_4E8D_41C4_0CDC4A718FA0.label = Sala 4° e 6° ano
+panorama_4C5A7F48_47CA_B683_41BC_B0779B0F9B2D.label = Sala 5° e 6° ano A
+panorama_4C5E5255_47CE_4E8D_41C4_41F64E0888A7.label = Sala 8° ano MAT e 1°
+panorama_4C5A14E9_47CD_CB82_41AB_7CC00ED1F834.label = Sala 9° ano MAT e 2° ano VESP
+panorama_4C5B4885_47CA_5B8D_41C2_051196D57AF9.label = Sala Infantil 3
+panorama_4C5A0657_47CB_F68E_41C9_EA5209CD5039.label = Sala Infantil 4
+panorama_4C5A2342_47CA_CE87_41D1_20AAD4C27FA5.label = Sala Infantil 5 A
+panorama_4C5BA46A_47CA_CA86_417F_A5F56438CB53.label = Sala Infantil 5 A
+panorama_4C5A4194_47CA_CD83_419C_700F843FE7E7.label = Sala Infantil 5 A
+panorama_4C5BE58D_47CA_559D_41B0_2B8703DEAD87.label = Sala Infantil 5 B
+panorama_4C5F34C6_47CE_CB8F_41C1_EB4B35189805.label = Sala de Informática
+panorama_4C5E7439_47CE_4A82_41C0_9F8512FE9284.label = Sala de robótica
+album_0418498F_1289_4070_41B2_BC680678BF0F_0.label = logo-azz
+panorama_4C5AE4BE_47CB_CBFE_41B8_E6DA7173DDFE.label = Àrea Externa
+album_0418498F_1289_4070_41B2_BC680678BF0F.label = Álbum de Fotos logo-azz
+
+## Skin
+
+### Button
+Button_988FCE3B_8E25_99C6_41BD_88D99AC2A6D7.label = Matricule-se
+Button_DDA5CECA_D35A_347B_41E9_09F1E04C1FA2_mobile.label = matricule-se  já
+
+### Dropdown
+DropDown_9D2B7C99_8E23_9AC2_4199_D2371B408EE6.prompt = MENU 
+DropDown_9A53EDDD_9508_F854_41D1_2B74582F89A0.prompt = Menu
+
+### Image
+Image_054FB4AC_128B_41B0_4189_7FCE335A472C.url = skin/Image_054FB4AC_128B_41B0_4189_7FCE335A472C_en.png
+Image_05889D87_128B_C070_41A8_4390E0C245B8.url = skin/Image_05889D87_128B_C070_41A8_4390E0C245B8_en.png
+
+### Multiline Text
+HTMLText_DE3F5581_C5EB_D96B_41D5_279A826AC366.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:3.61111111111111vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vw;font-family:'Helvetica';">Você esta em:</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:5.000000000000001vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:5vw;font-family:'Helvetica';">{{title}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:1.67vw;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.67vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:1.67vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_D4CFE9EC_C5B4_A8B9_41E1_CC200660FC57.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 13px rgba(0,0,0,0.53);text-align:center;font-size:0.9386733416770964vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:0.94vw;font-family:'Helvetica';">Você Está em</SPAN></SPAN></DIV><DIV STYLE="text-shadow:0px 0px 13px rgba(0,0,0,0.53);line-height:100%;text-align:center;font-size:1.3141426783479353vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.31vw;font-family:'Helvetica';">{{title}}</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.75vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Visite agora o Tour Virtual 360° do Colégio Superação!
+
+### Title
+tour.name = Colégio superação
